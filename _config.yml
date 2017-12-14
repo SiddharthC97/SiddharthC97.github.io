@@ -2,6 +2,8 @@ theme: jekyll-theme-Cayman
 title: Siddharth Chadha
 description: Aerospace Engineering.
 description: Class of 2020. University of Illinois at Urbana-Champaign.
+gems:
+  - jekyll-octicons
 
 author:
   name: Siddharth Chadha
