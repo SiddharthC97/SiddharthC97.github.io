@@ -15,3 +15,6 @@ footer-links-active:
   github: true
   linkedin: true
   telephone: true
+  
+share-links-active:
+  linkedin: true
