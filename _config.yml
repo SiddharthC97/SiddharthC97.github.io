@@ -3,4 +3,15 @@ title: Siddharth Chadha
 description: Aerospace Engineering.
 description: Class of 2020. University of Illinois at Urbana-Champaign.
 
-footer-link linkedin: siddharth-chadha-638881136
+author:
+  name: Siddharth Chadha
+  email: "sidc97@gmail.com"
+  github: SiddharthC97    # eg. daattali
+  linkedin: siddharth-chadha-638881136  # eg. daattali
+  telephone: 212-810-1766   # eg. +14159998888
+# Select which links to show in the footer
+footer-links-active:
+  email: true
+  github: true
+  linkedin: true
+  telephone: true
